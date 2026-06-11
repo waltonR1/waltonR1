@@ -10,7 +10,7 @@ Professional Product and Project Engineer
 
 > **面向业务系统的全栈工程学习者与实践者。**
 >
-> **A full-stack engineering practitioner focused on practical business systems.**
+> **Engineer of the last generation formally trained in traditional software development before the AI era.**
 
 I mainly work with **Java**, **Spring Boot**, **Python 3**, **Vue 3**, **TypeScript**, **PostgreSQL**, **MySQL**, **Redis**, and **SQLite**.
 

@@ -1,11 +1,11 @@
 # 👋 Hi, I'm [@waltonR1](https://github.com/waltonR1)
 
 <h3 align="center">
-产品与项目工程实践者
+产品与项目工程从业者
 <br>
 •
 <br>
-Product and Project Engineering Practitioner
+Professional Product and Project Engineer
 </h3>
 
 > **面向业务系统的全栈工程学习者与实践者。**
